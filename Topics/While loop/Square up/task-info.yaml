@@ -1,0 +1,16 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: |-
+    i = 1
+    while i > 20:
+        print(i)
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/6540#comment
+status: Failed
+feedback:
+  message: |
+    Failed. Wrong answer
+  time: Sun, 31 Jul 2022 14:15:33 UTC
+record: -1
